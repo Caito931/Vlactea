@@ -1,4 +1,4 @@
-# VMath - Biblioteca de Gráficos 
+# Vlactea - Biblioteca de Gráficos 
 <img src="VlacteaLogo.png" style="width:200px">
 **VMath** é uma biblioteca em TypeScript que permite a criação e visualização de gráficos diretamente no terminal. Ela oferece funcionalidades para criar gráficos de barras, histogramas, gráficos de linha e gráficos de pontos, permitindo uma visualização simples e eficaz dos dados em ambientes de linha de comando (CLI).
 
